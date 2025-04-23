@@ -1,1 +1,1 @@
-# IRA2.0_MONEYMANAGER_DEMO
+This project is dedicated to doing a Demo of RPA automation in MoneyManager and Excel with the LLM's advanced capabilities. To leverage the power of LLM to enhance IRA1.0 to enable more intelligent data processing, such as better understanding and extracting application data/layout/reasoning information, making the PRA Automation more efficient, accurate, and capable of handling complex logics and give proper exception handling suggestions during replaying.
